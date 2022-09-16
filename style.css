@@ -12,18 +12,6 @@ body {
     justify-content: center;
 }
 
-img {
-  max-width: 400px;
-  height: auto;
-}
-
-@media (max-width: 750px) {
-  img {
-    max-width: 40%;
-    height: auto;
-  }
-}
-
 p {
     font-size: 12pt;
 }
